@@ -1,1 +1,2 @@
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&start=LIVE
