@@ -1,1 +1,1 @@
-https://kino-stream.online/hls/DTRZONA1.m3u8
+"DTR Zona 1 (720p)": "https://kino-stream.online/hls/DTRZONA1.m3u8",
